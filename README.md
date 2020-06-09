@@ -1,7 +1,7 @@
 
 <h1 align="center">Aplicativo Administrativo Toolkit</h1>
 
-### Aplicativo desenvolvido em Flutter contendo a administração do modulo de vendas do app [Toolkit](https://github.com/julionery/flutter-app-toolkit).
+### Aplicativo desenvolvido em Flutter contendo a administração do modulo de vendas do app [Toolkit](https://github.com/julionery/flutter-firebase-toolkit).
 
 ### :rocket: Tecnologias:
 - [Flutter](https://flutter.dev/ "Flutter")
@@ -19,6 +19,11 @@
 
 <h2 align="center">Demonstração</h2>
 
+<h3 align="center">
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/Toolkit/toolkit-admin-1.gif?raw=true">&nbsp;&nbsp;  
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/Toolkit/toolkit-admin-2.gif?raw=true">&nbsp;&nbsp;
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/Toolkit/toolkit-admin-3.gif?raw=true">
+</h3>
 
 ---
 
